@@ -1,2 +1,3 @@
 # hello-world
-Githun implementation test
+//corrected spelling
+Github implementation test
